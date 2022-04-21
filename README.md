@@ -6,4 +6,5 @@ The Dataset is composed of the recordings of 14 simple ADL (brush_teeth, climb_s
 It can be found at :https://archive.ics.uci.edu/ml/datasets/Dataset+for+ADL+Recognition+with+Wrist-worn+Accelerometer 
 
 The 'HMP' folder stores the original data set
+
 The 'data' folder stores the parts we use for our work
