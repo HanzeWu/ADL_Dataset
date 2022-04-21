@@ -1,0 +1,9 @@
+-data
+    -HMP
+        - climb_stairs (102 elements)
+        - drink_glass (100 elements)
+        - getup_bed (101 elements)
+        - pour_water (100 elements)
+        - sitdown_chair (100 elements)
+        - standup_chair (102 elements)
+        - walk (100 elements)
